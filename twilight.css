@@ -40,14 +40,14 @@
     color: var(--tridactyl-bg);
 }
 
-#tridactyl-input {    padding: 1rem;
+#tridactyl-input {    padding: 0.5rem;
     color: var(--tridactyl-fg);
-    width: 90%;
+    width: 80%;
     font-size: 1.0rem;
     line-height: 1.0;
     background: var(--tridactyl-bg);
     padding-left: unset;
-    padding: 1rem;
+    padding: 0.5rem;
 }
 
 #completions table {    font-size: 0.8rem;
