@@ -42,7 +42,7 @@
 
 #tridactyl-input {    padding: 0.5rem;
     color: var(--tridactyl-fg);
-    width: 80%;
+    width: 50%;
     font-size: 1.0rem;
     line-height: 1.0;
     background: var(--tridactyl-bg);
